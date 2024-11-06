@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.example</groupId>
-	<artifactId><![CDATA[ex_1_&_2_secure_with_oauth2]]></artifactId>
+	<artifactId>ex_1_2_secure_with_oauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ex_1_secure_with_oauth2</name>
-	<description>ex_1_secure_with_oauth2</description>
+	<name>ex_1_2_secure_with_oauth2</name>
+	<description>ex_1_2_secure_with_oauth2</description>
 	<url/>
 	<licenses>
 		<license/>
